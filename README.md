@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Vigneshwaran S</h1>
 <h3 align="center">A passionate programmer and web developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-i-k-y-01&label=Profile%20views&color=0e75b6&style=flat" alt="v-i-k-y-01" /> </p>
