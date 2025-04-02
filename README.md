@@ -11,7 +11,7 @@
 
 - 💬 platforms **web,windows,linux**
 
-- 📫 How to reach me **vikycosteta@gmail.com**
+- 📫 How to reach me **vigneshwarans0090@gmail.com**
 
 - ⚡ Favorite Quote **If u fail in an attempt,dont change the goal just change the plan.**
 
